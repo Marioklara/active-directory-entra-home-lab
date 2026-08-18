@@ -1,6 +1,6 @@
-# Active Directory \& Microsoft Entra ID Home Lab
+# Active Directory \& Microsoft Home Lab
 
-Dieses Repository dokumentiert mein eigenes IT-Home-Lab mit Windows Server, Active Directory und Microsoft Entra ID.
+Dieses Repository dokumentiert mein eigenes IT-Home-Lab mit Windows Server und Active Directory 
 
 ## Ziel
 
@@ -16,8 +16,7 @@ Ich habe eine kleine Unternehmensumgebung aufgebaut, um typische Aufgaben aus Sy
 * DHCP-Scope und Reservierung
 * Gruppenrichtlinie zum Sperren der Systemsteuerung
 * Client-Test zur Pruefung der GPO
-* Microsoft Entra ID Benutzerverwaltung und erste Cloud-Identitaetsverwaltung
-
+* Erste praktische Übungen mit Microsoft Entra ID
 ## Dokumentation
 
 Die vollstaendige Dokumentation befindet sich in der Datei:
